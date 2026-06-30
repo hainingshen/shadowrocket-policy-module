@@ -1,41 +1,40 @@
 from __future__ import annotations
 
-from datetime import date
 from pathlib import Path
+import sys
+
+
+SCRIPT_DIR = Path(__file__).resolve().parent
+if str(SCRIPT_DIR) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_DIR))
+
+from rulelib import Rule, parse_rule_line
 
 
 ROOT = Path(__file__).resolve().parents[1]
 RULES = [
     ("youtube.list", "YouTube"),
+    ("generated/youtube.list", "YouTube"),
     ("netflix.list", "Netflix"),
+    ("generated/netflix.list", "Netflix"),
+    ("general.list", "General"),
+    ("generated/general.list", "General"),
     ("direct.list", "DIRECT"),
+    ("generated/direct.list", "DIRECT"),
 ]
 OUTPUT = ROOT / "modules" / "policy.module"
 
 
-def iter_rules(path: Path) -> list[str]:
-    rules: list[str] = []
+def iter_rules(path: Path) -> list[Rule]:
+    if not path.exists():
+        return []
+
+    rules: list[Rule] = []
     for raw_line in path.read_text(encoding="utf-8").splitlines():
-        line = raw_line.strip()
-        if not line or line.startswith("#"):
-            continue
-        rules.append(line)
+        rule = parse_rule_line(raw_line)
+        if rule is not None:
+            rules.append(rule)
     return rules
-
-
-def with_policy(rule: str, policy: str) -> str:
-    parts = [part.strip() for part in rule.split(",")]
-    rule_type = parts[0].upper()
-
-    if rule_type == "GEOIP":
-        if len(parts) != 2:
-            raise ValueError(f"GEOIP rules must be TYPE,COUNTRY: {rule}")
-        return f"{parts[0]},{parts[1]},{policy}"
-
-    if len(parts) < 2:
-        raise ValueError(f"Rule must include a value: {rule}")
-
-    return ",".join(parts[:2] + [policy] + parts[2:])
 
 
 def build_module() -> str:
@@ -44,21 +43,24 @@ def build_module() -> str:
         "#!desc=Route normal traffic, YouTube, Netflix, and direct traffic to separate policies.",
         "#!author=hainingshen",
         "#!homepage=https://github.com/hainingshen/shadowrocket-policy-module",
-        f"#!date={date.today().isoformat()}",
         "",
         "[Rule]",
     ]
 
     seen: set[str] = set()
     for filename, policy in RULES:
+        path = ROOT / "rules" / filename
+        rules = iter_rules(path)
+        if not rules:
+            continue
+
         lines.append("")
         lines.append(f"# {filename} -> {policy}")
-        for rule in iter_rules(ROOT / "rules" / filename):
-            rendered = with_policy(rule, policy)
-            dedupe_key = rendered.lower()
-            if dedupe_key in seen:
-                raise ValueError(f"Duplicate generated rule: {rendered}")
-            seen.add(dedupe_key)
+        for rule in rules:
+            if rule.key in seen:
+                continue
+            seen.add(rule.key)
+            rendered = rule.render_with_policy(policy)
             lines.append(rendered)
 
     lines.extend(["", "# Default proxy policy.", "FINAL,General"])

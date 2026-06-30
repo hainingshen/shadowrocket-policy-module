@@ -1,0 +1,150 @@
+{
+  "policies": {
+    "YouTube": [
+      {
+        "name": "blackmatrix7 Shadowrocket YouTube",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/YouTube/YouTube.list",
+        "format": "rules",
+        "min_kept": 100
+      },
+      {
+        "name": "blackmatrix7 Shadowrocket YouTubeMusic",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/YouTubeMusic/YouTubeMusic.list",
+        "format": "rules"
+      },
+      {
+        "name": "ACL4SSR YouTube",
+        "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list",
+        "format": "rules"
+      },
+      {
+        "name": "MetaCubeX geosite YouTube",
+        "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/youtube.list",
+        "format": "domain-list"
+      }
+    ],
+    "Netflix": [
+      {
+        "name": "MetaCubeX geosite Netflix",
+        "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/netflix.list",
+        "format": "domain-list",
+        "min_kept": 20
+      },
+      {
+        "name": "MetaCubeX geoip Netflix",
+        "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/netflix.list",
+        "format": "cidr-list",
+        "min_kept": 20
+      },
+      {
+        "name": "blackmatrix7 Shadowrocket Netflix domains",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Netflix/Netflix.list",
+        "format": "rules",
+        "include_types": ["DOMAIN", "DOMAIN-SUFFIX", "DOMAIN-KEYWORD"],
+        "exclude_values": ["us-west-2.amazonaws.com", "cookielaw.org", "onetrust.com"]
+      },
+      {
+        "name": "ACL4SSR Netflix domains",
+        "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list",
+        "format": "rules",
+        "include_types": ["DOMAIN", "DOMAIN-SUFFIX", "DOMAIN-KEYWORD"]
+      }
+    ],
+    "General": [
+      {
+        "name": "blackmatrix7 Shadowrocket Proxy domain-set",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy_Domain.list",
+        "format": "domain-list",
+        "min_kept": 1000
+      },
+      {
+        "name": "blackmatrix7 Shadowrocket Proxy",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy.list",
+        "format": "rules"
+      },
+      {
+        "name": "Loyalsoldier GFW domains",
+        "url": "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/gfw.txt",
+        "format": "payload"
+      },
+      {
+        "name": "Loyalsoldier GreatFire domains",
+        "url": "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt",
+        "format": "payload"
+      }
+    ],
+    "DIRECT": [
+      {
+        "name": "blackmatrix7 Shadowrocket LAN",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Lan/Lan.list",
+        "format": "rules",
+        "include_types": ["DOMAIN", "DOMAIN-SUFFIX", "IP-CIDR", "IP-CIDR6"]
+      },
+      {
+        "name": "blackmatrix7 Shadowrocket ChinaMaxNoMedia domain-set",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaMaxNoMedia/ChinaMaxNoMedia_Domain.list",
+        "format": "domain-list",
+        "min_kept": 50000
+      },
+      {
+        "name": "blackmatrix7 Shadowrocket ChinaMaxNoMedia",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaMaxNoMedia/ChinaMaxNoMedia.list",
+        "format": "rules",
+        "include_types": ["DOMAIN", "DOMAIN-SUFFIX", "DOMAIN-KEYWORD", "IP-CIDR", "IP-CIDR6", "USER-AGENT"],
+        "min_kept": 10000
+      }
+    ]
+  },
+  "optional_sources": {
+    "YouTube": [
+      {
+        "name": "v2fly domain-list-community YouTube",
+        "url": "https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/youtube",
+        "format": "geosite",
+        "reason": "Useful for cross-checking, but not enabled by default to avoid importing attributed variants blindly."
+      }
+    ],
+    "Netflix": [
+      {
+        "name": "blackmatrix7 Shadowrocket Netflix full",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Netflix/Netflix.list",
+        "format": "rules",
+        "reason": "Includes broad IP ranges. Enable only if you accept wider Netflix policy matching."
+      }
+    ],
+    "General": [
+      {
+        "name": "Loyalsoldier proxy domains",
+        "url": "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/proxy.txt",
+        "format": "payload",
+        "reason": "Large broad proxy set. Enable if you prefer aggressive coverage over compactness."
+      },
+      {
+        "name": "SukkaW Global Services",
+        "url": "https://ruleset.skk.moe/List/non_ip/global.conf",
+        "format": "rules",
+        "reason": "High-quality source, but disabled by default because of licensing and overlap review requirements."
+      }
+    ],
+    "DIRECT": [
+      {
+        "name": "Loyalsoldier direct domains",
+        "url": "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/direct.txt",
+        "format": "payload",
+        "reason": "Large direct source. Disabled by default because ChinaMaxNoMedia already covers the default DIRECT use case."
+      },
+      {
+        "name": "Loyalsoldier China CIDR",
+        "url": "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/cncidr.txt",
+        "format": "payload",
+        "reason": "Alternative CN CIDR source. Disabled by default to avoid duplicating ChinaMaxNoMedia IP rules."
+      },
+      {
+        "name": "MetaCubeX geosite CN",
+        "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.list",
+        "format": "domain-list",
+        "reason": "Large alternative CN domain source. Enable only if you accept more overlap review."
+      }
+    ]
+  }
+}

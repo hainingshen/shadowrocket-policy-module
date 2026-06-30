@@ -1,0 +1,2 @@
+# Manual rules for normal proxied browsing.
+# Most General traffic is handled by FINAL,General after YouTube, Netflix, and DIRECT rules.
