@@ -1,0 +1,7 @@
+* text=auto eol=lf
+
+*.conf text eol=lf
+*.list text eol=lf
+*.module text eol=lf
+*.py text eol=lf
+*.yml text eol=lf

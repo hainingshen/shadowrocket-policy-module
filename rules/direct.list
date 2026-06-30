@@ -1,0 +1,50 @@
+# Local networks.
+DOMAIN-SUFFIX,local
+DOMAIN-SUFFIX,lan
+IP-CIDR,0.0.0.0/8,no-resolve
+IP-CIDR,10.0.0.0/8,no-resolve
+IP-CIDR,100.64.0.0/10,no-resolve
+IP-CIDR,127.0.0.0/8,no-resolve
+IP-CIDR,169.254.0.0/16,no-resolve
+IP-CIDR,172.16.0.0/12,no-resolve
+IP-CIDR,192.168.0.0/16,no-resolve
+IP-CIDR,224.0.0.0/4,no-resolve
+IP-CIDR,240.0.0.0/4,no-resolve
+IP-CIDR6,::1/128,no-resolve
+IP-CIDR6,fc00::/7,no-resolve
+IP-CIDR6,fe80::/10,no-resolve
+
+# Mainland China and common direct-access services.
+DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,bdstatic.com
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,miui.com
+DOMAIN-SUFFIX,netease.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,sina.com
+DOMAIN-SUFFIX,sinaimg.cn
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,tencent.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,xiaomi.com
+
+# Apple captive portal and push services normally work better direct in China.
+DOMAIN,captive.apple.com
+DOMAIN-SUFFIX,apple.com.cn
+
+# GeoIP fallback for mainland China addresses.
+GEOIP,CN
