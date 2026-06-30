@@ -13,6 +13,28 @@
 
 ## 快速使用
 
+### 免手写配置模式
+
+如果你希望只在 Shadowrocket 里添加节点，然后分别给 `General`、`YouTube`、`Netflix` 选择节点，推荐导入完整配置：
+
+```text
+https://raw.githubusercontent.com/hainingshen/shadowrocket-policy-module/main/configs/auto-policy.conf
+```
+
+导入后，配置里已经预置策略组：
+
+- `General`
+- `YouTube`
+- `Netflix`
+
+这些策略组使用 `policy-regex-filter=.*` 自动包含你添加的节点。你只需要：
+
+1. 在 Shadowrocket 添加节点或订阅。
+2. 导入并启用 `auto-policy.conf`。
+3. 打开 `General`、`YouTube`、`Netflix` 三个策略组，分别点选你想用的节点。
+
+### 模块模式
+
 1. 在 Shadowrocket 主配置里创建这些策略组：
 
    - `General`

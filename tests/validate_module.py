@@ -6,6 +6,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 MODULE = ROOT / "modules" / "policy.module"
+AUTO_CONFIG = ROOT / "configs" / "auto-policy.conf"
 BUILD = ROOT / "scripts" / "build.py"
 SOURCES = ROOT / "config" / "sources.json"
 ALLOWED_POLICIES = {"General", "YouTube", "Netflix", "DIRECT"}
@@ -87,6 +88,15 @@ def validate_domain_policies(rule_lines: list[str]) -> None:
         )
 
 
+def validate_auto_config() -> None:
+    text = AUTO_CONFIG.read_text(encoding="utf-8")
+    assert "[Proxy Group]" in text, "auto config must define proxy groups"
+    for group in ("General", "YouTube", "Netflix"):
+        assert f"{group} = select" in text, f"auto config missing {group} group"
+    assert "policy-regex-filter=.*" in text, "auto config should include added nodes"
+    assert "FINAL,General" in text, "auto config must default to General"
+
+
 def main() -> None:
     build = load_build_module()
     expected = build.build_module()
@@ -103,6 +113,7 @@ def main() -> None:
         validate_rule(line)
 
     validate_domain_policies(rule_lines)
+    validate_auto_config()
     assert rule_lines[-1] == "FINAL,General", "FINAL rule must route to General"
     assert SOURCES.exists(), "config/sources.json is required for automated updates"
     print("Module validation passed")
