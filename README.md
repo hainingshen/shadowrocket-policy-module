@@ -5,6 +5,7 @@
 - `General`：普通代理上网
 - `YouTube`：YouTube、Google Video、YouTube Music 等
 - `Netflix`：Netflix 播放、图片、API 与相关服务
+- `ChinaIM`：国内即时通讯强制直连，实际策略为 `DIRECT`
 - `DIRECT`：无需代理，直接连接
 
 项目目标是把 Clash 常见规则拆成 Shadowrocket 更容易使用的模块格式，避免直接搬运 Clash 规则后出现策略组名、语法或顺序不匹配的问题。
@@ -63,13 +64,15 @@ https://raw.githubusercontent.com/hainingshen/shadowrocket-policy-module/main/co
 2. `rules/generated/youtube.list` -> `YouTube`
 3. `rules/netflix.list` -> `Netflix`
 4. `rules/generated/netflix.list` -> `Netflix`
-5. `rules/general.list` -> `General`
-6. `rules/generated/general.list` -> `General`
-7. `rules/direct.list` -> `DIRECT`
-8. `rules/generated/direct.list` -> `DIRECT`
-9. `FINAL` -> `General`
+5. `rules/china-im.list` -> `DIRECT`
+6. `rules/generated/china-im.list` -> `DIRECT`
+7. `rules/general.list` -> `General`
+8. `rules/generated/general.list` -> `General`
+9. `rules/direct.list` -> `DIRECT`
+10. `rules/generated/direct.list` -> `DIRECT`
+11. `FINAL` -> `General`
 
-YouTube 和 Netflix 放在最前，避免 Google/直连/GeoIP 规则抢走流媒体请求。显式 `General` 规则放在 `DIRECT` 之前，避免 GitHub、Reddit、OpenAI 等已知代理域名被国内大源误直连。最后未命中的请求默认进入 `General`。
+YouTube 和 Netflix 放在最前，避免 Google/直连/GeoIP 规则抢走流媒体请求。`ChinaIM` 放在 `General` 之前，用来强制微信、QQ、钉钉、飞书等国内即时通讯直连。显式 `General` 规则放在普通 `DIRECT` 之前，避免 GitHub、Reddit、OpenAI 等已知代理域名被国内大源误直连。最后未命中的请求默认进入 `General`。
 
 ## 本地构建
 
@@ -94,6 +97,7 @@ python tests/validate_module.py
 
 - YouTube：blackmatrix7 YouTube / YouTubeMusic、ACL4SSR YouTube、MetaCubeX geosite YouTube。
 - Netflix：MetaCubeX geosite + geoip 为主，blackmatrix7 和 ACL4SSR 只补域名/关键词，默认不合并 blackmatrix7 的宽泛 Netflix IP 段。
+- ChinaIM：手工兜底清单、blackmatrix7 WeChat / DingTalk / Tencent / ByteDance、ACL4SSR WeChat / Tencent / ByteDance，全部映射为 `DIRECT`。
 - General：blackmatrix7 Proxy / Proxy domain-set、Loyalsoldier GFW、Loyalsoldier GreatFire。
 - DIRECT：blackmatrix7 LAN、blackmatrix7 ChinaMaxNoMedia / ChinaMaxNoMedia domain-set。
 

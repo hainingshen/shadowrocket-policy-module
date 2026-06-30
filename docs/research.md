@@ -14,6 +14,14 @@
 
 默认不合并 blackmatrix7 的完整 Netflix IP 集，因为其中有较宽的 AWS 段，可能把非 Netflix 流量打进 Netflix 策略。`us-west-2.amazonaws.com`、`cookielaw.org`、`onetrust.com` 这类通用域名也默认排除。
 
+## ChinaIM
+
+`ChinaIM` 是强制直连层，不新增用户可选策略组，生成时映射到 `DIRECT`。它放在 `General` 之前，目标是避免微信、QQ、企业微信、钉钉、飞书等国内即时通讯被普通代理规则命中后连到国际版本或跨境入口。
+
+默认来源包括本地兜底清单、[blackmatrix7 WeChat](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/WeChat/WeChat.list)、[blackmatrix7 DingTalk](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/DingTalk/DingTalk.list)、[blackmatrix7 Tencent](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Tencent/Tencent.list)、[blackmatrix7 Tencent domain-set](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Tencent/Tencent_Domain.list)、[blackmatrix7 ByteDance](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ByteDance/ByteDance.list) 以及 ACL4SSR 的 WeChat/Tencent/ByteDance 规则。
+
+这会让腾讯和字节的一部分非聊天服务也更早直连。这个取舍是有意的：国内即时通讯的账号、推送、文件、图片、支付和小程序基础设施高度共用，过度收窄反而容易漏掉登录或消息通道。
+
 ## General
 
 显式 General 规则用于保护已知需要代理的普通访问域名，避免后续 `DIRECT` 大源抢走。默认来源是 [blackmatrix7 Proxy](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy.list)、[blackmatrix7 Proxy domain-set](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy_Domain.list)、[Loyalsoldier GFW](https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/gfw.txt) 和 [Loyalsoldier GreatFire](https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt)。

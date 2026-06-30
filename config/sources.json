@@ -50,6 +50,52 @@
         "include_types": ["DOMAIN", "DOMAIN-SUFFIX", "DOMAIN-KEYWORD"]
       }
     ],
+    "ChinaIM": [
+      {
+        "name": "blackmatrix7 Shadowrocket WeChat",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/WeChat/WeChat.list",
+        "format": "rules",
+        "min_kept": 20
+      },
+      {
+        "name": "blackmatrix7 Shadowrocket DingTalk",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/DingTalk/DingTalk.list",
+        "format": "rules",
+        "min_kept": 10
+      },
+      {
+        "name": "blackmatrix7 Shadowrocket Tencent domain-set",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Tencent/Tencent_Domain.list",
+        "format": "domain-list",
+        "min_kept": 1000
+      },
+      {
+        "name": "blackmatrix7 Shadowrocket Tencent",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Tencent/Tencent.list",
+        "format": "rules"
+      },
+      {
+        "name": "blackmatrix7 Shadowrocket ByteDance",
+        "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ByteDance/ByteDance.list",
+        "format": "rules",
+        "min_kept": 300
+      },
+      {
+        "name": "ACL4SSR WeChat",
+        "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Wechat.list",
+        "format": "rules"
+      },
+      {
+        "name": "ACL4SSR Tencent",
+        "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Tencent.list",
+        "format": "rules"
+      },
+      {
+        "name": "ACL4SSR ByteDance",
+        "url": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/ByteDance.list",
+        "format": "rules"
+      }
+    ],
     "General": [
       {
         "name": "blackmatrix7 Shadowrocket Proxy domain-set",
@@ -110,6 +156,20 @@
         "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Netflix/Netflix.list",
         "format": "rules",
         "reason": "Includes broad IP ranges. Enable only if you accept wider Netflix policy matching."
+      }
+    ],
+    "ChinaIM": [
+      {
+        "name": "MetaCubeX geosite Tencent",
+        "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tencent.list",
+        "format": "domain-list",
+        "reason": "Alternative broad Tencent source. Disabled by default because blackmatrix7 Tencent is already active."
+      },
+      {
+        "name": "MetaCubeX geosite ByteDance",
+        "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bytedance.list",
+        "format": "domain-list",
+        "reason": "Alternative ByteDance source. Disabled by default because blackmatrix7 ByteDance is already active."
       }
     ],
     "General": [

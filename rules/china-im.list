@@ -1,0 +1,57 @@
+# Domestic instant messaging services that should stay on DIRECT.
+# Keep this list focused on messaging/login/push domains; broad vendor coverage comes from generated sources.
+
+# Tencent: WeChat, WeCom, QQ, TIM.
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,wechatpay.com
+DOMAIN-SUFFIX,wechatlegal.net
+DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,weixinbridge.com
+DOMAIN-SUFFIX,weixinsxy.com
+DOMAIN-SUFFIX,servicewechat.com
+DOMAIN-SUFFIX,wx.qq.com
+DOMAIN-SUFFIX,wxapp.tc.qq.com
+DOMAIN-SUFFIX,wxwork.qq.com
+DOMAIN-SUFFIX,work.weixin.qq.com
+DOMAIN-SUFFIX,qy.weixin.qq.com
+DOMAIN-SUFFIX,wecom.qq.com
+DOMAIN-SUFFIX,wework.qpic.cn
+DOMAIN-SUFFIX,imqq.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,gtimg.com
+DOMAIN-SUFFIX,tenpay.com
+
+# Alibaba: DingTalk.
+DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,dingtalk.cn
+DOMAIN-SUFFIX,dingtalk.com.cn
+DOMAIN-SUFFIX,dingtalk.net
+DOMAIN-SUFFIX,dingtalkapps.com
+DOMAIN-SUFFIX,dingding.xin
+DOMAIN-SUFFIX,ddurl.to
+DOMAIN-SUFFIX,laiwang.com
+DOMAIN-SUFFIX,lwurl.to
+DOMAIN-SUFFIX,realapp.xin
+DOMAIN-SUFFIX,dg-work.cn
+
+# ByteDance: Feishu and Lark shared infrastructure used by Chinese accounts.
+DOMAIN-SUFFIX,feishu.cn
+DOMAIN-SUFFIX,feishu.net
+DOMAIN-SUFFIX,feishuapp.cn
+DOMAIN-SUFFIX,feishucdn.com
+DOMAIN-SUFFIX,larksuite.com
+DOMAIN-SUFFIX,larksuitecdn.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,bytedance.net
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,bytedns.net
+
+# Kuaishou messaging and account infrastructure.
+DOMAIN-SUFFIX,kuaishou.com
+DOMAIN-SUFFIX,kuaishouzt.com
+DOMAIN-SUFFIX,kwai.com
+DOMAIN-SUFFIX,kwai.net

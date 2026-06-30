@@ -26,6 +26,7 @@ REPORT = ROOT / "reports" / "sources.md"
 POLICY_FILENAMES = {
     "YouTube": "youtube.list",
     "Netflix": "netflix.list",
+    "ChinaIM": "china-im.list",
     "DIRECT": "direct.list",
     "General": "general.list",
 }

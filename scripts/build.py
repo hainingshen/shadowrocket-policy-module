@@ -17,6 +17,8 @@ RULES = [
     ("generated/youtube.list", "YouTube"),
     ("netflix.list", "Netflix"),
     ("generated/netflix.list", "Netflix"),
+    ("china-im.list", "DIRECT"),
+    ("generated/china-im.list", "DIRECT"),
     ("general.list", "General"),
     ("generated/general.list", "General"),
     ("direct.list", "DIRECT"),
