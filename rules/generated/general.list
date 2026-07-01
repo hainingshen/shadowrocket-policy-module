@@ -1775,6 +1775,7 @@ DOMAIN-SUFFIX,expekt.com
 DOMAIN-SUFFIX,experts-univers.com
 DOMAIN-SUFFIX,exploader.net
 DOMAIN-SUFFIX,expofutures.com
+DOMAIN-SUFFIX,expressnews.com
 DOMAIN-SUFFIX,expressvpn.com
 DOMAIN-SUFFIX,exrates.me
 DOMAIN-SUFFIX,extmatrix.com
@@ -6756,7 +6757,7 @@ DOMAIN,developer.apple.com
 DOMAIN,login.microsoftonline.com
 DOMAIN,testflight.apple.com
 DOMAIN,voice.telephony.goog
-# Source count after policy-level dedupe: 6753
+# Source count after policy-level dedupe: 6754
 
 # Source: blackmatrix7 Shadowrocket Proxy
 # URL: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy.list
@@ -7079,7 +7080,6 @@ DOMAIN-SUFFIX,eporner.com
 DOMAIN-SUFFIX,esg.t91y.com
 DOMAIN-SUFFIX,etools.ncol.com
 DOMAIN-SUFFIX,evchk.wikia.com
-DOMAIN-SUFFIX,expressnews.com
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,facebook.de
 DOMAIN-SUFFIX,facebook.design
@@ -7604,7 +7604,7 @@ DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhengwunet.org
 DOMAIN-SUFFIX,zhuichaguoji.org
 DOMAIN-SUFFIX,zmw.cn
-# Source count after policy-level dedupe: 709
+# Source count after policy-level dedupe: 708
 
 # Source: Loyalsoldier GreatFire domains
 # URL: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt

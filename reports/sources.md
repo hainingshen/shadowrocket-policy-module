@@ -20,10 +20,10 @@ This report is generated from `config/sources.json` by `scripts/update_rules.py`
 | ChinaIM | ACL4SSR WeChat | 21 | 21 | 0 | https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Wechat.list |
 | ChinaIM | ACL4SSR Tencent | 19 | 19 | 0 | https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Tencent.list |
 | ChinaIM | ACL4SSR ByteDance | 44 | 44 | 1 | https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/ByteDance.list |
-| General | blackmatrix7 Shadowrocket Proxy domain-set | 6755 | 6755 | 6755 | https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy_Domain.list |
+| General | blackmatrix7 Shadowrocket Proxy domain-set | 6756 | 6756 | 6756 | https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy_Domain.list |
 | General | blackmatrix7 Shadowrocket Proxy | 131 | 131 | 131 | https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy.list |
-| General | Loyalsoldier GFW domains | 4360 | 4360 | 709 | https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/gfw.txt |
+| General | Loyalsoldier GFW domains | 4360 | 4360 | 708 | https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/gfw.txt |
 | General | Loyalsoldier GreatFire domains | 10 | 10 | 1 | https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt |
 | DIRECT | blackmatrix7 Shadowrocket LAN | 140 | 140 | 140 | https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Lan/Lan.list |
-| DIRECT | blackmatrix7 Shadowrocket ChinaMaxNoMedia domain-set | 112053 | 112053 | 112050 | https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaMaxNoMedia/ChinaMaxNoMedia_Domain.list |
-| DIRECT | blackmatrix7 Shadowrocket ChinaMaxNoMedia | 12508 | 12507 | 12503 | https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaMaxNoMedia/ChinaMaxNoMedia.list |
+| DIRECT | blackmatrix7 Shadowrocket ChinaMaxNoMedia domain-set | 111886 | 111886 | 111883 | https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaMaxNoMedia/ChinaMaxNoMedia_Domain.list |
+| DIRECT | blackmatrix7 Shadowrocket ChinaMaxNoMedia | 12503 | 12502 | 12498 | https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaMaxNoMedia/ChinaMaxNoMedia.list |
