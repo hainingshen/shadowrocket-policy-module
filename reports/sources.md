@@ -26,4 +26,4 @@ This report is generated from `config/sources.json` by `scripts/update_rules.py`
 | General | Loyalsoldier GreatFire domains | 10 | 10 | 1 | https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt |
 | DIRECT | blackmatrix7 Shadowrocket LAN | 140 | 140 | 140 | https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Lan/Lan.list |
 | DIRECT | blackmatrix7 Shadowrocket ChinaMaxNoMedia domain-set | 111894 | 111894 | 111891 | https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaMaxNoMedia/ChinaMaxNoMedia_Domain.list |
-| DIRECT | blackmatrix7 Shadowrocket ChinaMaxNoMedia | 12503 | 12502 | 12498 | https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaMaxNoMedia/ChinaMaxNoMedia.list |
+| DIRECT | blackmatrix7 Shadowrocket ChinaMaxNoMedia | 12507 | 12506 | 12502 | https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaMaxNoMedia/ChinaMaxNoMedia.list |
