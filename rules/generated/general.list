@@ -1140,6 +1140,7 @@ DOMAIN-SUFFIX,cixiaoya.club
 DOMAIN-SUFFIX,ck101.com
 DOMAIN-SUFFIX,cl.ly
 DOMAIN-SUFFIX,clarionproject.org
+DOMAIN-SUFFIX,clashyun.com
 DOMAIN-SUFFIX,classicalguitarblog.net
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,clb.org.hk
@@ -5293,6 +5294,7 @@ DOMAIN-SUFFIX,syncback.com
 DOMAIN-SUFFIX,synergyse.com
 DOMAIN-SUFFIX,syosetu.com
 DOMAIN-SUFFIX,sysresccd.org
+DOMAIN-SUFFIX,sysub.com
 DOMAIN-SUFFIX,sytes.net
 DOMAIN-SUFFIX,syx86.com
 DOMAIN-SUFFIX,szbbs.net
@@ -6759,7 +6761,7 @@ DOMAIN,developer.apple.com
 DOMAIN,login.microsoftonline.com
 DOMAIN,testflight.apple.com
 DOMAIN,voice.telephony.goog
-# Source count after policy-level dedupe: 6756
+# Source count after policy-level dedupe: 6758
 
 # Source: blackmatrix7 Shadowrocket Proxy
 # URL: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy.list
