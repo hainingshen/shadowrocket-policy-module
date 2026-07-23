@@ -5652,6 +5652,7 @@ DOMAIN-SUFFIX,toggleable.com
 DOMAIN-SUFFIX,toh.info
 DOMAIN-SUFFIX,token.im
 DOMAIN-SUFFIX,tokenlon.im
+DOMAIN-SUFFIX,tokenplus.app
 DOMAIN-SUFFIX,tokyo-247.com
 DOMAIN-SUFFIX,tokyo-hot.com
 DOMAIN-SUFFIX,tokyocn.com
@@ -6684,6 +6685,7 @@ DOMAIN-SUFFIX,zello.com
 DOMAIN-SUFFIX,zengjinyan.org
 DOMAIN-SUFFIX,zenmate.com
 DOMAIN-SUFFIX,zenmate.com.ru
+DOMAIN-SUFFIX,zenmux.ai
 DOMAIN-SUFFIX,zerohedge.com
 DOMAIN-SUFFIX,zeronet.io
 DOMAIN-SUFFIX,zeutch.com
@@ -6761,7 +6763,7 @@ DOMAIN,developer.apple.com
 DOMAIN,login.microsoftonline.com
 DOMAIN,testflight.apple.com
 DOMAIN,voice.telephony.goog
-# Source count after policy-level dedupe: 6758
+# Source count after policy-level dedupe: 6760
 
 # Source: blackmatrix7 Shadowrocket Proxy
 # URL: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy.list
@@ -7599,7 +7601,6 @@ DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtubeeducation.com
 DOMAIN-SUFFIX,youtubegaming.com
 DOMAIN-SUFFIX,youtubekids.com
-DOMAIN-SUFFIX,zenmux.ai
 DOMAIN-SUFFIX,zh-hans.cfsh99.com
 DOMAIN-SUFFIX,zh.ecdm.wikia.com
 DOMAIN-SUFFIX,zh.pokerstrategy.com
@@ -7609,7 +7610,7 @@ DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhengwunet.org
 DOMAIN-SUFFIX,zhuichaguoji.org
 DOMAIN-SUFFIX,zmw.cn
-# Source count after policy-level dedupe: 709
+# Source count after policy-level dedupe: 708
 
 # Source: Loyalsoldier GreatFire domains
 # URL: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt
