@@ -7515,6 +7515,7 @@ DOMAIN-SUFFIX,topsy.com
 DOMAIN-SUFFIX,tosh.comedycentral.com
 DOMAIN-SUFFIX,trade.futunn.com
 DOMAIN-SUFFIX,trade.longportapp.com
+DOMAIN-SUFFIX,tryai.dev
 DOMAIN-SUFFIX,tsdr.uspto.gov
 DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,tubepornclassic.com
@@ -7612,7 +7613,7 @@ DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhengwunet.org
 DOMAIN-SUFFIX,zhuichaguoji.org
 DOMAIN-SUFFIX,zmw.cn
-# Source count after policy-level dedupe: 708
+# Source count after policy-level dedupe: 709
 
 # Source: Loyalsoldier GreatFire domains
 # URL: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt
