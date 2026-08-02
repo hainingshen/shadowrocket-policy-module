@@ -7420,6 +7420,7 @@ DOMAIN-SUFFIX,news.ycombinator.com
 DOMAIN-SUFFIX,nic.cz.cc
 DOMAIN-SUFFIX,nikke.hotcool.tw
 DOMAIN-SUFFIX,ntdtv.com
+DOMAIN-SUFFIX,nthlink.com
 DOMAIN-SUFFIX,nytimes.map.fastly.net
 DOMAIN-SUFFIX,old.honeynet.org
 DOMAIN-SUFFIX,one.one.one.one
@@ -7614,7 +7615,7 @@ DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhengwunet.org
 DOMAIN-SUFFIX,zhuichaguoji.org
 DOMAIN-SUFFIX,zmw.cn
-# Source count after policy-level dedupe: 708
+# Source count after policy-level dedupe: 709
 
 # Source: Loyalsoldier GreatFire domains
 # URL: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt
