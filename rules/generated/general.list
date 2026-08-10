@@ -6919,6 +6919,7 @@ DOMAIN-SUFFIX,addyoutube.com
 DOMAIN-SUFFIX,admin.recaptcha.net
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,agoogleaday.com
+DOMAIN-SUFFIX,aihub.top
 DOMAIN-SUFFIX,akamai.tvb.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,api-gl.lbkrs.com
@@ -6943,6 +6944,7 @@ DOMAIN-SUFFIX,auctions.yahoo.co.jp
 DOMAIN-SUFFIX,b.hatena.ne.jp
 DOMAIN-SUFFIX,bannedbook.org
 DOMAIN-SUFFIX,bartender.dowjones.com
+DOMAIN-SUFFIX,basemaps.arcgis.com
 DOMAIN-SUFFIX,bbs.cantonese.asia
 DOMAIN-SUFFIX,bbs.hanminzu.org
 DOMAIN-SUFFIX,bbs.junglobal.net
@@ -7087,8 +7089,10 @@ DOMAIN-SUFFIX,epochtimes.com
 DOMAIN-SUFFIX,epochweekly.com
 DOMAIN-SUFFIX,eporner.com
 DOMAIN-SUFFIX,esg.t91y.com
+DOMAIN-SUFFIX,esim.redteago.com
 DOMAIN-SUFFIX,etools.ncol.com
 DOMAIN-SUFFIX,evchk.wikia.com
+DOMAIN-SUFFIX,experience.arcgis.com
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,facebook.de
 DOMAIN-SUFFIX,facebook.design
@@ -7612,7 +7616,7 @@ DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhengwunet.org
 DOMAIN-SUFFIX,zhuichaguoji.org
 DOMAIN-SUFFIX,zmw.cn
-# Source count after policy-level dedupe: 706
+# Source count after policy-level dedupe: 710
 
 # Source: Loyalsoldier GreatFire domains
 # URL: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt
