@@ -9,7 +9,7 @@ This report is generated from `config/sources.json` by `scripts/update_rules.py`
 | YouTube | ACL4SSR YouTube | 14 | 14 | 2 | https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list |
 | YouTube | MetaCubeX geosite YouTube | 178 | 178 | 2 | https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/youtube.list |
 | Netflix | MetaCubeX geosite Netflix | 24 | 24 | 24 | https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/netflix.list |
-| Netflix | MetaCubeX geoip Netflix | 112 | 112 | 112 | https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/netflix.list |
+| Netflix | MetaCubeX geoip Netflix | 114 | 114 | 114 | https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/netflix.list |
 | Netflix | blackmatrix7 Shadowrocket Netflix domains | 1157 | 34 | 10 | https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Netflix/Netflix.list |
 | Netflix | ACL4SSR Netflix domains | 40 | 22 | 0 | https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list |
 | ChinaIM | blackmatrix7 Shadowrocket WeChat | 33 | 33 | 33 | https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/WeChat/WeChat.list |
