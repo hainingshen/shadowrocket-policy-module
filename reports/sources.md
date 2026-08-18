@@ -22,7 +22,7 @@ This report is generated from `config/sources.json` by `scripts/update_rules.py`
 | ChinaIM | ACL4SSR ByteDance | 44 | 44 | 1 | https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/ByteDance.list |
 | General | blackmatrix7 Shadowrocket Proxy domain-set | 6769 | 6769 | 6769 | https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy_Domain.list |
 | General | blackmatrix7 Shadowrocket Proxy | 131 | 131 | 131 | https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy.list |
-| General | Loyalsoldier GFW domains | 4373 | 4373 | 708 | https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/gfw.txt |
+| General | Loyalsoldier GFW domains | 4374 | 4374 | 709 | https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/gfw.txt |
 | General | Loyalsoldier GreatFire domains | 10 | 10 | 1 | https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt |
 | DIRECT | blackmatrix7 Shadowrocket LAN | 140 | 140 | 140 | https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Lan/Lan.list |
 | DIRECT | blackmatrix7 Shadowrocket ChinaMaxNoMedia domain-set | 111151 | 111151 | 111148 | https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaMaxNoMedia/ChinaMaxNoMedia_Domain.list |
