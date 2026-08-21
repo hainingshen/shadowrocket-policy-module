@@ -4128,6 +4128,7 @@ DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,okpool.me
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,old-cat.net
+DOMAIN-SUFFIX,oldmapsonline.org
 DOMAIN-SUFFIX,olehdtv.com
 DOMAIN-SUFFIX,olelive.com
 DOMAIN-SUFFIX,olevod.com
@@ -6770,7 +6771,7 @@ DOMAIN,developer.apple.com
 DOMAIN,login.microsoftonline.com
 DOMAIN,testflight.apple.com
 DOMAIN,voice.telephony.goog
-# Source count after policy-level dedupe: 6767
+# Source count after policy-level dedupe: 6768
 
 # Source: blackmatrix7 Shadowrocket Proxy
 # URL: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy.list
@@ -7426,7 +7427,6 @@ DOMAIN-SUFFIX,nikke.hotcool.tw
 DOMAIN-SUFFIX,ntdtv.com
 DOMAIN-SUFFIX,nytimes.map.fastly.net
 DOMAIN-SUFFIX,old.honeynet.org
-DOMAIN-SUFFIX,oldmapsonline.org
 DOMAIN-SUFFIX,one.one.one.one
 DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,onedrive.live.com
@@ -7620,7 +7620,7 @@ DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhengwunet.org
 DOMAIN-SUFFIX,zhuichaguoji.org
 DOMAIN-SUFFIX,zmw.cn
-# Source count after policy-level dedupe: 711
+# Source count after policy-level dedupe: 710
 
 # Source: Loyalsoldier GreatFire domains
 # URL: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt
