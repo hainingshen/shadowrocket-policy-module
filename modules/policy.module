@@ -4085,6 +4085,7 @@ DOMAIN-SUFFIX,breakgfw.com,General
 DOMAIN-SUFFIX,breaking911.com,General
 DOMAIN-SUFFIX,breakingtweets.com,General
 DOMAIN-SUFFIX,breakwall.net,General
+DOMAIN-SUFFIX,briarproject.org,General
 DOMAIN-SUFFIX,briefdream.com,General
 DOMAIN-SUFFIX,briian.com,General
 DOMAIN-SUFFIX,brill.com,General
@@ -4301,6 +4302,7 @@ DOMAIN-SUFFIX,chapm25.com,General
 DOMAIN-SUFFIX,character.ai,General
 DOMAIN-SUFFIX,chat.com,General
 DOMAIN-SUFFIX,chat.openai.com,General
+DOMAIN-SUFFIX,chatgpt.site,General
 DOMAIN-SUFFIX,chatnook.com,General
 DOMAIN-SUFFIX,chatpdf.com,General
 DOMAIN-SUFFIX,chaturbate.com,General
@@ -5875,6 +5877,7 @@ DOMAIN-SUFFIX,himemix.com,General
 DOMAIN-SUFFIX,himemix.net,General
 DOMAIN-SUFFIX,hindustantimes.com,General
 DOMAIN-SUFFIX,hinet.net,General
+DOMAIN-SUFFIX,historylines.net,General
 DOMAIN-SUFFIX,hitbtc.com,General
 DOMAIN-SUFFIX,hitomi.la,General
 DOMAIN-SUFFIX,hitun.io,General
@@ -6489,6 +6492,7 @@ DOMAIN-SUFFIX,kinokuniya.com,General
 DOMAIN-SUFFIX,kir.jp,General
 DOMAIN-SUFFIX,kissjav.com,General
 DOMAIN-SUFFIX,kiwi.kz,General
+DOMAIN-SUFFIX,kiwix.org,General
 DOMAIN-SUFFIX,kk-whys.co.jp,General
 DOMAIN-SUFFIX,kkbox.com,General
 DOMAIN-SUFFIX,kknews.cc,General
@@ -6819,6 +6823,7 @@ DOMAIN-SUFFIX,maxing.jp,General
 DOMAIN-SUFFIX,mayimayi.com,General
 DOMAIN-SUFFIX,mcadforums.com,General
 DOMAIN-SUFFIX,mcaf.ee,General
+DOMAIN-SUFFIX,mceindex.com,General
 DOMAIN-SUFFIX,mcfog.com,General
 DOMAIN-SUFFIX,mcreasite.com,General
 DOMAIN-SUFFIX,mcusercontent.com,General
@@ -8115,6 +8120,7 @@ DOMAIN-SUFFIX,saveuighur.org,General
 DOMAIN-SUFFIX,savevid.com,General
 DOMAIN-SUFFIX,say2.info,General
 DOMAIN-SUFFIX,sb-cd.com,General
+DOMAIN-SUFFIX,sb.sb,General
 DOMAIN-SUFFIX,sbme.me,General
 DOMAIN-SUFFIX,sbs.com.au,General
 DOMAIN-SUFFIX,sbti.unun.dev,General
@@ -10308,7 +10314,6 @@ DOMAIN-SUFFIX,blogspot.sn,General
 DOMAIN-SUFFIX,blogspot.tw,General
 DOMAIN-SUFFIX,blogspot.ug,General
 DOMAIN-SUFFIX,bloomberg.cn,General
-DOMAIN-SUFFIX,briarproject.org,General
 DOMAIN-SUFFIX,caoporn.us,General
 DOMAIN-SUFFIX,casino.williamhill.com,General
 DOMAIN-SUFFIX,cbs.ntu.edu.tw,General
@@ -10325,7 +10330,6 @@ DOMAIN-SUFFIX,cdninstagram.com,General
 DOMAIN-SUFFIX,certificate.revocationcheck.com,General
 DOMAIN-SUFFIX,chat.lmsys.org,General
 DOMAIN-SUFFIX,chatgpt.com,General
-DOMAIN-SUFFIX,chatgpt.site,General
 DOMAIN-SUFFIX,chenshan20042005.wordpress.com,General
 DOMAIN-SUFFIX,china.ucanews.com,General
 DOMAIN-SUFFIX,chinaview.wordpress.com,General
@@ -120097,15 +120101,15 @@ DOMAIN,zb.pzhgd.com,DIRECT
 DOMAIN,zuikzy.win7i.com,DIRECT
 DOMAIN,zzlive.zzc-media.com,DIRECT
 DOMAIN,zzq12345.gearhostpreview.com,DIRECT
-DOMAIN-SUFFIX,alibaba,DIRECT
-DOMAIN-SUFFIX,tmall,DIRECT
 DOMAIN-SUFFIX,ms,DIRECT
+DOMAIN-SUFFIX,alibaba,DIRECT
 DOMAIN-SUFFIX,anquan,DIRECT
 DOMAIN-SUFFIX,citic,DIRECT
 DOMAIN-SUFFIX,icbc,DIRECT
 DOMAIN-SUFFIX,shouji,DIRECT
 DOMAIN-SUFFIX,sina,DIRECT
 DOMAIN-SUFFIX,sohu,DIRECT
+DOMAIN-SUFFIX,tmall,DIRECT
 DOMAIN-SUFFIX,unicom,DIRECT
 DOMAIN-SUFFIX,wang,DIRECT
 DOMAIN-SUFFIX,xihuan,DIRECT
@@ -120184,12 +120188,14 @@ USER-AGENT,hide*,DIRECT
 USER-AGENT,ting_en,DIRECT
 USER-AGENT,%E4%BC%98%E9%85%B7*,DIRECT
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90,DIRECT
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,DIRECT
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*,DIRECT
 USER-AGENT,*QIYI*,DIRECT
 USER-AGENT,AcFun*,DIRECT
 USER-AGENT,DomesticMedia*,DIRECT
 USER-AGENT,MGTV*,DIRECT
 USER-AGENT,MOO*,DIRECT
+USER-AGENT,NeteaseMusic*,DIRECT
 USER-AGENT,PPStream*,DIRECT
 USER-AGENT,QIYI*,DIRECT
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*,DIRECT
@@ -120199,13 +120205,11 @@ USER-AGENT,YYeTs*,DIRECT
 USER-AGENT,Youku*,DIRECT
 USER-AGENT,baiduyinyue,DIRECT
 USER-AGENT,iQiYi*,DIRECT
-USER-AGENT,walkman*,DIRECT
-USER-AGENT,xiami*,DIRECT
 USER-AGENT,Himalaya*,DIRECT
 USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91,DIRECT
 USER-AGENT,MiguVideo*,DIRECT
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,DIRECT
-USER-AGENT,NeteaseMusic*,DIRECT
+USER-AGENT,walkman*,DIRECT
+USER-AGENT,xiami*,DIRECT
 IP-CIDR,0.0.0.0/32,DIRECT,no-resolve
 IP-CIDR,1.0.1.0/24,DIRECT,no-resolve
 IP-CIDR,1.0.2.0/23,DIRECT,no-resolve
@@ -123705,7 +123709,7 @@ IP-CIDR,140.249.0.0/16,DIRECT,no-resolve
 IP-CIDR,140.250.0.0/16,DIRECT,no-resolve
 IP-CIDR,140.255.0.0/16,DIRECT,no-resolve
 IP-CIDR,140.75.0.0/16,DIRECT,no-resolve
-IP-CIDR,141.11.50.0/23,DIRECT,no-resolve
+IP-CIDR,141.11.51.0/24,DIRECT,no-resolve
 IP-CIDR,142.70.0.0/16,DIRECT,no-resolve
 IP-CIDR,142.86.0.0/16,DIRECT,no-resolve
 IP-CIDR,143.191.188.0/22,DIRECT,no-resolve
@@ -124568,7 +124572,7 @@ IP-CIDR,192.197.113.0/24,DIRECT,no-resolve
 IP-CIDR,192.23.191.0/24,DIRECT,no-resolve
 IP-CIDR,192.232.97.0/24,DIRECT,no-resolve
 IP-CIDR,192.240.127.34/32,DIRECT,no-resolve
-IP-CIDR,192.51.173.0/24,DIRECT,no-resolve
+IP-CIDR,192.51.172.0/23,DIRECT,no-resolve
 IP-CIDR,192.51.188.0/24,DIRECT,no-resolve
 IP-CIDR,192.55.10.0/23,DIRECT,no-resolve
 IP-CIDR,192.55.40.0/24,DIRECT,no-resolve
