@@ -10204,6 +10204,8 @@ IP-CIDR,74.86.0.0/16,General,no-resolve
 IP-CIDR,75.126.0.0/16,General,no-resolve
 IP-CIDR,91.105.192.0/23,General,no-resolve
 IP-CIDR,91.108.0.0/16,General,no-resolve
+DOMAIN-SUFFIX,123av.com,General
+DOMAIN-SUFFIX,123av.me,General
 DOMAIN-SUFFIX,1e100.net,General
 DOMAIN-SUFFIX,666pool.cn,General
 DOMAIN-SUFFIX,91porn.com,General
@@ -10653,6 +10655,7 @@ DOMAIN-SUFFIX,googlezip.net,General
 DOMAIN-SUFFIX,greatfire.us7.list-manage.com,General
 DOMAIN-SUFFIX,gsp.target.com,General
 DOMAIN-SUFFIX,help.byspotify.com,General
+DOMAIN-SUFFIX,hentai.tv,General
 DOMAIN-SUFFIX,hk.gradconnection.com,General
 DOMAIN-SUFFIX,hk.jiepang.com,General
 DOMAIN-SUFFIX,hka8964.wordpress.com,General
@@ -10757,6 +10760,8 @@ DOMAIN-SUFFIX,rawgithub.com,General
 DOMAIN-SUFFIX,rcam.target.com,General
 DOMAIN-SUFFIX,relay.firefox.com,General
 DOMAIN-SUFFIX,renminbao.com,General
+DOMAIN-SUFFIX,roc-taiwan.org,General
+DOMAIN-SUFFIX,roushuwo.com,General
 DOMAIN-SUFFIX,rtm.tnt-ea.com,General
 DOMAIN-SUFFIX,s.yimg.com,General
 DOMAIN-SUFFIX,s3-ap-northeast-1.amazonaws.com,General
@@ -10792,8 +10797,11 @@ DOMAIN-SUFFIX,streamate.com,General
 DOMAIN-SUFFIX,suche.gmx.net,General
 DOMAIN-SUFFIX,sujiatun.wordpress.com,General
 DOMAIN-SUFFIX,sunporno.com,General
+DOMAIN-SUFFIX,supjav.com,General
 DOMAIN-SUFFIX,support.futunn.com,General
 DOMAIN-SUFFIX,sydney.bing.com,General
+DOMAIN-SUFFIX,taiav.com,General
+DOMAIN-SUFFIX,taiwanembassy.org,General
 DOMAIN-SUFFIX,tarr.uspto.gov,General
 DOMAIN-SUFFIX,telegram.dog,General
 DOMAIN-SUFFIX,telegram.me,General
@@ -10864,6 +10872,7 @@ DOMAIN-SUFFIX,wikiless.funami.tech,General
 DOMAIN-SUFFIX,withgoogle.com,General
 DOMAIN-SUFFIX,wo3ttt.wordpress.com,General
 DOMAIN-SUFFIX,wowporn.com,General
+DOMAIN-SUFFIX,wtfpass.com,General
 DOMAIN-SUFFIX,wujieliulan.com,General
 DOMAIN-SUFFIX,www.ajsands.com,General
 DOMAIN-SUFFIX,www.antd.org,General

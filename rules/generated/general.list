@@ -6923,6 +6923,8 @@ IP-CIDR,91.108.0.0/16,no-resolve
 
 # Source: Loyalsoldier GFW domains
 # URL: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/gfw.txt
+DOMAIN-SUFFIX,123av.com
+DOMAIN-SUFFIX,123av.me
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,666pool.cn
 DOMAIN-SUFFIX,91porn.com
@@ -7373,6 +7375,7 @@ DOMAIN-SUFFIX,googlezip.net
 DOMAIN-SUFFIX,greatfire.us7.list-manage.com
 DOMAIN-SUFFIX,gsp.target.com
 DOMAIN-SUFFIX,help.byspotify.com
+DOMAIN-SUFFIX,hentai.tv
 DOMAIN-SUFFIX,hk.gradconnection.com
 DOMAIN-SUFFIX,hk.jiepang.com
 DOMAIN-SUFFIX,hka8964.wordpress.com
@@ -7477,6 +7480,8 @@ DOMAIN-SUFFIX,rawgithub.com
 DOMAIN-SUFFIX,rcam.target.com
 DOMAIN-SUFFIX,relay.firefox.com
 DOMAIN-SUFFIX,renminbao.com
+DOMAIN-SUFFIX,roc-taiwan.org
+DOMAIN-SUFFIX,roushuwo.com
 DOMAIN-SUFFIX,rtm.tnt-ea.com
 DOMAIN-SUFFIX,s.yimg.com
 DOMAIN-SUFFIX,s3-ap-northeast-1.amazonaws.com
@@ -7512,8 +7517,11 @@ DOMAIN-SUFFIX,streamate.com
 DOMAIN-SUFFIX,suche.gmx.net
 DOMAIN-SUFFIX,sujiatun.wordpress.com
 DOMAIN-SUFFIX,sunporno.com
+DOMAIN-SUFFIX,supjav.com
 DOMAIN-SUFFIX,support.futunn.com
 DOMAIN-SUFFIX,sydney.bing.com
+DOMAIN-SUFFIX,taiav.com
+DOMAIN-SUFFIX,taiwanembassy.org
 DOMAIN-SUFFIX,tarr.uspto.gov
 DOMAIN-SUFFIX,telegram.dog
 DOMAIN-SUFFIX,telegram.me
@@ -7585,6 +7593,7 @@ DOMAIN-SUFFIX,withgoogle.com
 DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,wo3ttt.wordpress.com
 DOMAIN-SUFFIX,wowporn.com
+DOMAIN-SUFFIX,wtfpass.com
 DOMAIN-SUFFIX,wujieliulan.com
 DOMAIN-SUFFIX,www.ajsands.com
 DOMAIN-SUFFIX,www.antd.org
@@ -7633,7 +7642,7 @@ DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhengwunet.org
 DOMAIN-SUFFIX,zhuichaguoji.org
 DOMAIN-SUFFIX,zmw.cn
-# Source count after policy-level dedupe: 710
+# Source count after policy-level dedupe: 719
 
 # Source: Loyalsoldier GreatFire domains
 # URL: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt
