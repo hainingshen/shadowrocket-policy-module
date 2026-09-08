@@ -14,6 +14,8 @@ DOMAIN-SUFFIX,10beasts.net
 DOMAIN-SUFFIX,10conditionsoflove.com
 DOMAIN-SUFFIX,10musume.com
 DOMAIN-SUFFIX,111666.best
+DOMAIN-SUFFIX,123av.com
+DOMAIN-SUFFIX,123av.me
 DOMAIN-SUFFIX,123rf.com
 DOMAIN-SUFFIX,12bet.com
 DOMAIN-SUFFIX,12vpn.com
@@ -2540,6 +2542,7 @@ DOMAIN-SUFFIX,helpster.de
 DOMAIN-SUFFIX,helpzhuling.org
 DOMAIN-SUFFIX,hembed.com
 DOMAIN-SUFFIX,hentai.to
+DOMAIN-SUFFIX,hentai.tv
 DOMAIN-SUFFIX,hentaitube.tv
 DOMAIN-SUFFIX,hentaivideoworld.com
 DOMAIN-SUFFIX,heqinglian.net
@@ -4748,6 +4751,7 @@ DOMAIN-SUFFIX,roadshow.hk
 DOMAIN-SUFFIX,roblox.com
 DOMAIN-SUFFIX,roboforex.com
 DOMAIN-SUFFIX,robustnessiskey.com
+DOMAIN-SUFFIX,roc-taiwan.org
 DOMAIN-SUFFIX,rocket-inc.net
 DOMAIN-SUFFIX,rocket.chat
 DOMAIN-SUFFIX,rocketbbs.com
@@ -4763,6 +4767,7 @@ DOMAIN-SUFFIX,rosechina.net
 DOMAIN-SUFFIX,rotten.com
 DOMAIN-SUFFIX,rou.video
 DOMAIN-SUFFIX,roucdn.link
+DOMAIN-SUFFIX,roushuwo.com
 DOMAIN-SUFFIX,rpglogs.com
 DOMAIN-SUFFIX,rsdlmonitor.com
 DOMAIN-SUFFIX,rsf-chinese.org
@@ -5283,6 +5288,7 @@ DOMAIN-SUFFIX,supermariorun.com
 DOMAIN-SUFFIX,superpages.com
 DOMAIN-SUFFIX,supervpn.net
 DOMAIN-SUFFIX,superzooi.com
+DOMAIN-SUFFIX,supjav.com
 DOMAIN-SUFFIX,suppig.net
 DOMAIN-SUFFIX,supremecourt.gov
 DOMAIN-SUFFIX,suprememastertv.com
@@ -5334,6 +5340,7 @@ DOMAIN-SUFFIX,tafm.org
 DOMAIN-SUFFIX,tagwa.org.au
 DOMAIN-SUFFIX,tagwalk.com
 DOMAIN-SUFFIX,tahr.org.tw
+DOMAIN-SUFFIX,taiav.com
 DOMAIN-SUFFIX,tails.net
 DOMAIN-SUFFIX,taipeisociety.org
 DOMAIN-SUFFIX,taipeitimes.com
@@ -5343,6 +5350,7 @@ DOMAIN-SUFFIX,taiwanbible.com
 DOMAIN-SUFFIX,taiwancon.com
 DOMAIN-SUFFIX,taiwandaily.net
 DOMAIN-SUFFIX,taiwandc.org
+DOMAIN-SUFFIX,taiwanembassy.org
 DOMAIN-SUFFIX,taiwanhot.net
 DOMAIN-SUFFIX,taiwanjustice.com
 DOMAIN-SUFFIX,taiwanjustice.net
@@ -6442,6 +6450,7 @@ DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wsj.net
 DOMAIN-SUFFIX,wsjhk.com
 DOMAIN-SUFFIX,wtbn.org
+DOMAIN-SUFFIX,wtfpass.com
 DOMAIN-SUFFIX,wtfpeople.com
 DOMAIN-SUFFIX,wuerkaixi.com
 DOMAIN-SUFFIX,wufafangwen.com
@@ -6784,7 +6793,7 @@ DOMAIN,developer.apple.com
 DOMAIN,login.microsoftonline.com
 DOMAIN,testflight.apple.com
 DOMAIN,voice.telephony.goog
-# Source count after policy-level dedupe: 6781
+# Source count after policy-level dedupe: 6790
 
 # Source: blackmatrix7 Shadowrocket Proxy
 # URL: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy.list
@@ -6923,8 +6932,6 @@ IP-CIDR,91.108.0.0/16,no-resolve
 
 # Source: Loyalsoldier GFW domains
 # URL: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/gfw.txt
-DOMAIN-SUFFIX,123av.com
-DOMAIN-SUFFIX,123av.me
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,666pool.cn
 DOMAIN-SUFFIX,91porn.com
@@ -7375,7 +7382,6 @@ DOMAIN-SUFFIX,googlezip.net
 DOMAIN-SUFFIX,greatfire.us7.list-manage.com
 DOMAIN-SUFFIX,gsp.target.com
 DOMAIN-SUFFIX,help.byspotify.com
-DOMAIN-SUFFIX,hentai.tv
 DOMAIN-SUFFIX,hk.gradconnection.com
 DOMAIN-SUFFIX,hk.jiepang.com
 DOMAIN-SUFFIX,hka8964.wordpress.com
@@ -7480,8 +7486,6 @@ DOMAIN-SUFFIX,rawgithub.com
 DOMAIN-SUFFIX,rcam.target.com
 DOMAIN-SUFFIX,relay.firefox.com
 DOMAIN-SUFFIX,renminbao.com
-DOMAIN-SUFFIX,roc-taiwan.org
-DOMAIN-SUFFIX,roushuwo.com
 DOMAIN-SUFFIX,rtm.tnt-ea.com
 DOMAIN-SUFFIX,s.yimg.com
 DOMAIN-SUFFIX,s3-ap-northeast-1.amazonaws.com
@@ -7517,11 +7521,8 @@ DOMAIN-SUFFIX,streamate.com
 DOMAIN-SUFFIX,suche.gmx.net
 DOMAIN-SUFFIX,sujiatun.wordpress.com
 DOMAIN-SUFFIX,sunporno.com
-DOMAIN-SUFFIX,supjav.com
 DOMAIN-SUFFIX,support.futunn.com
 DOMAIN-SUFFIX,sydney.bing.com
-DOMAIN-SUFFIX,taiav.com
-DOMAIN-SUFFIX,taiwanembassy.org
 DOMAIN-SUFFIX,tarr.uspto.gov
 DOMAIN-SUFFIX,telegram.dog
 DOMAIN-SUFFIX,telegram.me
@@ -7593,7 +7594,6 @@ DOMAIN-SUFFIX,withgoogle.com
 DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,wo3ttt.wordpress.com
 DOMAIN-SUFFIX,wowporn.com
-DOMAIN-SUFFIX,wtfpass.com
 DOMAIN-SUFFIX,wujieliulan.com
 DOMAIN-SUFFIX,www.ajsands.com
 DOMAIN-SUFFIX,www.antd.org
@@ -7642,7 +7642,7 @@ DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhengwunet.org
 DOMAIN-SUFFIX,zhuichaguoji.org
 DOMAIN-SUFFIX,zmw.cn
-# Source count after policy-level dedupe: 719
+# Source count after policy-level dedupe: 710
 
 # Source: Loyalsoldier GreatFire domains
 # URL: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt
