@@ -104579,6 +104579,7 @@ DOMAIN-SUFFIX,yuano.cc
 DOMAIN-SUFFIX,yuanpanguoji.com
 DOMAIN-SUFFIX,yuanqiao.net
 DOMAIN-SUFFIX,yuanqiao.pw
+DOMAIN-SUFFIX,yuanqidesk.com
 DOMAIN-SUFFIX,yuanqilt.com
 DOMAIN-SUFFIX,yuanqingsh.com
 DOMAIN-SUFFIX,yuanqisenlin.com
@@ -110981,20 +110982,20 @@ DOMAIN,zb.pzhgd.com
 DOMAIN,zuikzy.win7i.com
 DOMAIN,zzlive.zzc-media.com
 DOMAIN,zzq12345.gearhostpreview.com
-# Source count after policy-level dedupe: 110834
+# Source count after policy-level dedupe: 110835
 
 # Source: blackmatrix7 Shadowrocket ChinaMaxNoMedia
 # URL: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaMaxNoMedia/ChinaMaxNoMedia.list
+DOMAIN-SUFFIX,alibaba
+DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
-DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,anquan
 DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,icbc
 DOMAIN-SUFFIX,shouji
 DOMAIN-SUFFIX,sina
 DOMAIN-SUFFIX,sohu
-DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,unicom
 DOMAIN-SUFFIX,wang
 DOMAIN-SUFFIX,xihuan
@@ -111043,7 +111044,6 @@ DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,hnagroup
 DOMAIN-KEYWORD,stripe
 DOMAIN-KEYWORD,weibo
-USER-AGENT,AcFun*
 USER-AGENT,*bili*
 USER-AGENT,Bilibili*
 USER-AGENT,bili*
@@ -111080,30 +111080,31 @@ USER-AGENT,eusoft_ting_en_iphone
 USER-AGENT,hearthstone*
 USER-AGENT,hide*
 USER-AGENT,ting_en
-USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
 USER-AGENT,*QIYI*
+USER-AGENT,AcFun*
 USER-AGENT,DomesticMedia*
 USER-AGENT,MGTV*
 USER-AGENT,MOO%E9%9F%B3%E4%B9%90*
 USER-AGENT,MOO*
-USER-AGENT,MiguVideo*
-USER-AGENT,PPStream*
-USER-AGENT,QIYI*
 USER-AGENT,QQ%E9%9F%B3%E4%B9%90
 USER-AGENT,QQ%e9%9f%b3%e4%b9%90*
 USER-AGENT,QQMusic*
-USER-AGENT,QYPlayer*
+USER-AGENT,TencentMidasConnect*
 USER-AGENT,Youku*
-USER-AGENT,iQiYi*
+USER-AGENT,baiduyinyue
 USER-AGENT,live4iphone*
 USER-AGENT,qqlive4iphone*
+USER-AGENT,Himalaya*
+USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91
+USER-AGENT,MiguVideo*
 USER-AGENT,walkman*
 USER-AGENT,xiami*
-USER-AGENT,Himalaya*
-USER-AGENT,TencentMidasConnect*
-USER-AGENT,baiduyinyue
+USER-AGENT,PPStream*
+USER-AGENT,QIYI*
+USER-AGENT,QYPlayer*
+USER-AGENT,iQIYI*
 IP-CIDR,0.0.0.0/32,no-resolve
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
