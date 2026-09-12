@@ -6947,16 +6947,12 @@ DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,agoogleaday.com
 DOMAIN-SUFFIX,akamai.tvb.com
 DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,api-gl.lbkrs.com
 DOMAIN-SUFFIX,api-secure.recaptcha.net
 DOMAIN-SUFFIX,api-verify.recaptcha.net
-DOMAIN-SUFFIX,api.futunn.com
-DOMAIN-SUFFIX,api.lbkrs.com
 DOMAIN-SUFFIX,api.palworldgame.com
 DOMAIN-SUFFIX,api.pureapk.com
 DOMAIN-SUFFIX,api.recaptcha.net
 DOMAIN-SUFFIX,api.steampowered.com
-DOMAIN-SUFFIX,api5.futunn.com
 DOMAIN-SUFFIX,app.box.com
 DOMAIN-SUFFIX,app.cloudcone.com
 DOMAIN-SUFFIX,app.smartmailcloud.com
@@ -7061,7 +7057,6 @@ DOMAIN-SUFFIX,cbs.ntu.edu.tw
 DOMAIN-SUFFIX,cdn-images.mailchimp.com
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,cdn.arstechnica.net
-DOMAIN-SUFFIX,cdn.futustatic.com
 DOMAIN-SUFFIX,cdn.jwplayer.com
 DOMAIN-SUFFIX,cdn.printfriendly.com
 DOMAIN-SUFFIX,cdn.seatguru.com
@@ -7083,7 +7078,6 @@ DOMAIN-SUFFIX,cn.fmnnow.com
 DOMAIN-SUFFIX,cn.sandscotaicentral.com
 DOMAIN-SUFFIX,cn.shafaqna.com
 DOMAIN-SUFFIX,cn.theaustralian.com.au
-DOMAIN-SUFFIX,cn.uptodown.com
 DOMAIN-SUFFIX,cnbbnews.wordpress.com
 DOMAIN-SUFFIX,cnnews.chosun.com
 DOMAIN-SUFFIX,co.ng.mil
@@ -7103,7 +7097,6 @@ DOMAIN-SUFFIX,dlyoutube.com
 DOMAIN-SUFFIX,dns.cloudflare.com
 DOMAIN-SUFFIX,dnvod.tv
 DOMAIN-SUFFIX,dongtaiwang.com
-DOMAIN-SUFFIX,download.futunn.com
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropboxusercontent.com
@@ -7421,7 +7414,6 @@ DOMAIN-SUFFIX,listentoyoutube.com
 DOMAIN-SUFFIX,livingatlas.arcgis.com
 DOMAIN-SUFFIX,login.target.com
 DOMAIN-SUFFIX,lt.sntp.uk
-DOMAIN-SUFFIX,m.hkgalden.com
 DOMAIN-SUFFIX,m.moegirl.org
 DOMAIN-SUFFIX,main-ecnpaper-economist.content.pugpig.com
 DOMAIN-SUFFIX,matthewdgreen.wordpress.com
@@ -7456,10 +7448,6 @@ DOMAIN-SUFFIX,online.recoveryversion.org
 DOMAIN-SUFFIX,onlineyoutube.com
 DOMAIN-SUFFIX,open.firstory.me
 DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,openapi-quote.longbridge.com
-DOMAIN-SUFFIX,openapi-trade.longbridge.com
-DOMAIN-SUFFIX,openapi.futunn.com
-DOMAIN-SUFFIX,openapi.longbridge.com
 DOMAIN-SUFFIX,ordns.he.net
 DOMAIN-SUFFIX,oversea.istarshine.com
 DOMAIN-SUFFIX,panoramio.com
@@ -7478,8 +7466,7 @@ DOMAIN-SUFFIX,pornstarclub.com
 DOMAIN-SUFFIX,porntvblog.com
 DOMAIN-SUFFIX,posts.careerengine.us
 DOMAIN-SUFFIX,purpose.nike.com
-DOMAIN-SUFFIX,qtcard.futunn.com
-DOMAIN-SUFFIX,qtcardfthk.futufin.com
+DOMAIN-SUFFIX,quakemachinex.com
 DOMAIN-SUFFIX,quote.longbridge.global
 DOMAIN-SUFFIX,raw.githack.com
 DOMAIN-SUFFIX,rawgithub.com
@@ -7521,7 +7508,6 @@ DOMAIN-SUFFIX,streamate.com
 DOMAIN-SUFFIX,suche.gmx.net
 DOMAIN-SUFFIX,sujiatun.wordpress.com
 DOMAIN-SUFFIX,sunporno.com
-DOMAIN-SUFFIX,support.futunn.com
 DOMAIN-SUFFIX,sydney.bing.com
 DOMAIN-SUFFIX,tarr.uspto.gov
 DOMAIN-SUFFIX,telegram.dog
@@ -7543,8 +7529,6 @@ DOMAIN-SUFFIX,tokyo-porn-tube.com
 DOMAIN-SUFFIX,toppornsites.com
 DOMAIN-SUFFIX,topsy.com
 DOMAIN-SUFFIX,tosh.comedycentral.com
-DOMAIN-SUFFIX,trade.futunn.com
-DOMAIN-SUFFIX,trade.longportapp.com
 DOMAIN-SUFFIX,tsdr.uspto.gov
 DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,tubepornclassic.com
@@ -7642,7 +7626,7 @@ DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhengwunet.org
 DOMAIN-SUFFIX,zhuichaguoji.org
 DOMAIN-SUFFIX,zmw.cn
-# Source count after policy-level dedupe: 710
+# Source count after policy-level dedupe: 694
 
 # Source: Loyalsoldier GreatFire domains
 # URL: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt
