@@ -4603,6 +4603,7 @@ DOMAIN-SUFFIX,qq.co.za
 DOMAIN-SUFFIX,qstatus.com
 DOMAIN-SUFFIX,qtrac.eu
 DOMAIN-SUFFIX,qtweeter.com
+DOMAIN-SUFFIX,quakemachinex.com
 DOMAIN-SUFFIX,quannengshen.org
 DOMAIN-SUFFIX,quantumbooter.net
 DOMAIN-SUFFIX,quay.io
@@ -6793,7 +6794,7 @@ DOMAIN,developer.apple.com
 DOMAIN,login.microsoftonline.com
 DOMAIN,testflight.apple.com
 DOMAIN,voice.telephony.goog
-# Source count after policy-level dedupe: 6790
+# Source count after policy-level dedupe: 6791
 
 # Source: blackmatrix7 Shadowrocket Proxy
 # URL: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Proxy/Proxy.list
@@ -7466,7 +7467,6 @@ DOMAIN-SUFFIX,pornstarclub.com
 DOMAIN-SUFFIX,porntvblog.com
 DOMAIN-SUFFIX,posts.careerengine.us
 DOMAIN-SUFFIX,purpose.nike.com
-DOMAIN-SUFFIX,quakemachinex.com
 DOMAIN-SUFFIX,quote.longbridge.global
 DOMAIN-SUFFIX,raw.githack.com
 DOMAIN-SUFFIX,rawgithub.com
@@ -7626,7 +7626,7 @@ DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhengwunet.org
 DOMAIN-SUFFIX,zhuichaguoji.org
 DOMAIN-SUFFIX,zmw.cn
-# Source count after policy-level dedupe: 694
+# Source count after policy-level dedupe: 693
 
 # Source: Loyalsoldier GreatFire domains
 # URL: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt
