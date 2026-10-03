@@ -7498,6 +7498,7 @@ DOMAIN-SUFFIX,shenyunperformingarts.org
 DOMAIN-SUFFIX,shenzhoufilm.com
 DOMAIN-SUFFIX,shopping.yahoo.co.jp
 DOMAIN-SUFFIX,simbolostwitter.com
+DOMAIN-SUFFIX,sing-box.sagernet.org
 DOMAIN-SUFFIX,social.datalabour.com
 DOMAIN-SUFFIX,softwaredownload.gitbooks.io
 DOMAIN-SUFFIX,solarsystem.nasa.gov
@@ -7637,7 +7638,7 @@ DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhengwunet.org
 DOMAIN-SUFFIX,zhuichaguoji.org
 DOMAIN-SUFFIX,zmw.cn
-# Source count after policy-level dedupe: 694
+# Source count after policy-level dedupe: 695
 
 # Source: Loyalsoldier GreatFire domains
 # URL: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt
