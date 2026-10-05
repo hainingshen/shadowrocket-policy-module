@@ -7646,4 +7646,5 @@ DOMAIN-SUFFIX,zmw.cn
 # Source: Loyalsoldier GreatFire domains
 # URL: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt
 DOMAIN-SUFFIX,googlecensorship.org
-# Source count after policy-level dedupe: 1
+DOMAIN-SUFFIX,googleplaycensorship.com
+# Source count after policy-level dedupe: 2
