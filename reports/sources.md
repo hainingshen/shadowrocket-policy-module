@@ -25,5 +25,5 @@ This report is generated from `config/sources.json` by `scripts/update_rules.py`
 | General | Loyalsoldier GFW domains | 4429 | 4429 | 694 | https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/gfw.txt |
 | General | Loyalsoldier GreatFire domains | 11 | 11 | 2 | https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt |
 | DIRECT | blackmatrix7 Shadowrocket LAN | 140 | 140 | 140 | https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Lan/Lan.list |
-| DIRECT | blackmatrix7 Shadowrocket ChinaMaxNoMedia domain-set | 111040 | 111040 | 111037 | https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaMaxNoMedia/ChinaMaxNoMedia_Domain.list |
-| DIRECT | blackmatrix7 Shadowrocket ChinaMaxNoMedia | 12636 | 12635 | 12631 | https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaMaxNoMedia/ChinaMaxNoMedia.list |
+| DIRECT | blackmatrix7 Shadowrocket ChinaMaxNoMedia domain-set | 111410 | 111410 | 111407 | https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaMaxNoMedia/ChinaMaxNoMedia_Domain.list |
+| DIRECT | blackmatrix7 Shadowrocket ChinaMaxNoMedia | 12649 | 12648 | 12644 | https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaMaxNoMedia/ChinaMaxNoMedia.list |
