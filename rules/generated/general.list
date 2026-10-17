@@ -6981,6 +6981,7 @@ IP-CIDR,91.108.0.0/16,no-resolve
 # URL: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/gfw.txt
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,666pool.cn
+DOMAIN-SUFFIX,7x24hrs.com
 DOMAIN-SUFFIX,91porn.com
 DOMAIN-SUFFIX,91porny.com
 DOMAIN-SUFFIX,a248.e.akamai.net
@@ -7467,6 +7468,8 @@ DOMAIN-SUFFIX,matthewdgreen.wordpress.com
 DOMAIN-SUFFIX,maven.neoforged.net
 DOMAIN-SUFFIX,me.ns.ci
 DOMAIN-SUFFIX,media.nu.nl
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,metaaivm.com
 DOMAIN-SUFFIX,mike.cz.cc
 DOMAIN-SUFFIX,minghui.org
 DOMAIN-SUFFIX,minghuiyw.wordpress.com
@@ -7673,7 +7676,7 @@ DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhengwunet.org
 DOMAIN-SUFFIX,zhuichaguoji.org
 DOMAIN-SUFFIX,zmw.cn
-# Source count after policy-level dedupe: 694
+# Source count after policy-level dedupe: 697
 
 # Source: Loyalsoldier GreatFire domains
 # URL: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt

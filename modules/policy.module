@@ -10265,6 +10265,7 @@ IP-CIDR,91.105.192.0/23,General,no-resolve
 IP-CIDR,91.108.0.0/16,General,no-resolve
 DOMAIN-SUFFIX,1e100.net,General
 DOMAIN-SUFFIX,666pool.cn,General
+DOMAIN-SUFFIX,7x24hrs.com,General
 DOMAIN-SUFFIX,91porn.com,General
 DOMAIN-SUFFIX,91porny.com,General
 DOMAIN-SUFFIX,a248.e.akamai.net,General
@@ -10750,6 +10751,8 @@ DOMAIN-SUFFIX,matthewdgreen.wordpress.com,General
 DOMAIN-SUFFIX,maven.neoforged.net,General
 DOMAIN-SUFFIX,me.ns.ci,General
 DOMAIN-SUFFIX,media.nu.nl,General
+DOMAIN-SUFFIX,meta.ai,General
+DOMAIN-SUFFIX,metaaivm.com,General
 DOMAIN-SUFFIX,mike.cz.cc,General
 DOMAIN-SUFFIX,minghui.org,General
 DOMAIN-SUFFIX,minghuiyw.wordpress.com,General
