@@ -7132,6 +7132,7 @@ DOMAIN-SUFFIX,cnbbnews.wordpress.com
 DOMAIN-SUFFIX,cnnews.chosun.com
 DOMAIN-SUFFIX,co.ng.mil
 DOMAIN-SUFFIX,connect.facebook.net
+DOMAIN-SUFFIX,console.typesafe.ai
 DOMAIN-SUFFIX,contests.twilio.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,css.pixnet.in
@@ -7180,6 +7181,7 @@ DOMAIN-SUFFIX,fnc.ebc.net.tw
 DOMAIN-SUFFIX,forum.cyberctm.com
 DOMAIN-SUFFIX,freedominfonetweb.wordpress.com
 DOMAIN-SUFFIX,freetls.fastly.net
+DOMAIN-SUFFIX,ga.jspm.io
 DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
@@ -7676,7 +7678,7 @@ DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhengwunet.org
 DOMAIN-SUFFIX,zhuichaguoji.org
 DOMAIN-SUFFIX,zmw.cn
-# Source count after policy-level dedupe: 694
+# Source count after policy-level dedupe: 696
 
 # Source: Loyalsoldier GreatFire domains
 # URL: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt
