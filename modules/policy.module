@@ -10266,6 +10266,7 @@ IP-CIDR,74.86.0.0/16,General,no-resolve
 IP-CIDR,75.126.0.0/16,General,no-resolve
 IP-CIDR,91.105.192.0/23,General,no-resolve
 IP-CIDR,91.108.0.0/16,General,no-resolve
+DOMAIN-SUFFIX,123av.org,General
 DOMAIN-SUFFIX,1e100.net,General
 DOMAIN-SUFFIX,666pool.cn,General
 DOMAIN-SUFFIX,91porn.com,General
@@ -10740,6 +10741,7 @@ DOMAIN-SUFFIX,jmsc.hku.hk,General
 DOMAIN-SUFFIX,jobnewera.wordpress.com,General
 DOMAIN-SUFFIX,jpl.nasa.gov,General
 DOMAIN-SUFFIX,kb.monitorware.com,General
+DOMAIN-SUFFIX,kimootoko.net,General
 DOMAIN-SUFFIX,lab.skk.moe,General
 DOMAIN-SUFFIX,library.usc.cuhk.edu.hk,General
 DOMAIN-SUFFIX,lightnovel.cn,General
@@ -10758,9 +10760,11 @@ DOMAIN-SUFFIX,media.nu.nl,General
 DOMAIN-SUFFIX,mike.cz.cc,General
 DOMAIN-SUFFIX,minghui.org,General
 DOMAIN-SUFFIX,minghuiyw.wordpress.com,General
+DOMAIN-SUFFIX,minkch.com,General
 DOMAIN-SUFFIX,mjlsh.usc.cuhk.edu.hk,General
 DOMAIN-SUFFIX,mmaaxx.com,General
 DOMAIN-SUFFIX,mo.nightlife141.com,General
+DOMAIN-SUFFIX,movie.eroterest.net,General
 DOMAIN-SUFFIX,music.amazon.com,General
 DOMAIN-SUFFIX,my.pcloud.com,General
 DOMAIN-SUFFIX,nakedsecurity.sophos.com,General
@@ -10773,6 +10777,9 @@ DOMAIN-SUFFIX,news.tvbs.com.tw,General
 DOMAIN-SUFFIX,news.ycombinator.com,General
 DOMAIN-SUFFIX,nic.cz.cc,General
 DOMAIN-SUFFIX,nikke.hotcool.tw,General
+DOMAIN-SUFFIX,njav.com,General
+DOMAIN-SUFFIX,njav.tv,General
+DOMAIN-SUFFIX,njavtv.com,General
 DOMAIN-SUFFIX,ntdtv.com,General
 DOMAIN-SUFFIX,nytimes.map.fastly.net,General
 DOMAIN-SUFFIX,old.honeynet.org,General
@@ -10790,6 +10797,7 @@ DOMAIN-SUFFIX,payments-jp.amazon.com,General
 DOMAIN-SUFFIX,pds.nasa.gov,General
 DOMAIN-SUFFIX,phosphation13.rssing.com,General
 DOMAIN-SUFFIX,pixiv.org,General
+DOMAIN-SUFFIX,po-kaki-to.com,General
 DOMAIN-SUFFIX,pornhd.com,General
 DOMAIN-SUFFIX,pornhub.com,General
 DOMAIN-SUFFIX,pornhubdeutsch.net,General
@@ -10955,6 +10963,7 @@ DOMAIN-SUFFIX,zhengjian.org,General
 DOMAIN-SUFFIX,zhengwunet.org,General
 DOMAIN-SUFFIX,zhuichaguoji.org,General
 DOMAIN-SUFFIX,zmw.cn,General
+DOMAIN-SUFFIX,zozovideo.com,General
 DOMAIN-SUFFIX,googlecensorship.org,General
 DOMAIN-SUFFIX,googleplaycensorship.com,General
 

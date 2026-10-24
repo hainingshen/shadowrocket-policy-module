@@ -6982,6 +6982,7 @@ IP-CIDR,91.108.0.0/16,no-resolve
 
 # Source: Loyalsoldier GFW domains
 # URL: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/gfw.txt
+DOMAIN-SUFFIX,123av.org
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,666pool.cn
 DOMAIN-SUFFIX,91porn.com
@@ -7457,6 +7458,7 @@ DOMAIN-SUFFIX,jmsc.hku.hk
 DOMAIN-SUFFIX,jobnewera.wordpress.com
 DOMAIN-SUFFIX,jpl.nasa.gov
 DOMAIN-SUFFIX,kb.monitorware.com
+DOMAIN-SUFFIX,kimootoko.net
 DOMAIN-SUFFIX,lab.skk.moe
 DOMAIN-SUFFIX,library.usc.cuhk.edu.hk
 DOMAIN-SUFFIX,lightnovel.cn
@@ -7475,9 +7477,11 @@ DOMAIN-SUFFIX,media.nu.nl
 DOMAIN-SUFFIX,mike.cz.cc
 DOMAIN-SUFFIX,minghui.org
 DOMAIN-SUFFIX,minghuiyw.wordpress.com
+DOMAIN-SUFFIX,minkch.com
 DOMAIN-SUFFIX,mjlsh.usc.cuhk.edu.hk
 DOMAIN-SUFFIX,mmaaxx.com
 DOMAIN-SUFFIX,mo.nightlife141.com
+DOMAIN-SUFFIX,movie.eroterest.net
 DOMAIN-SUFFIX,music.amazon.com
 DOMAIN-SUFFIX,my.pcloud.com
 DOMAIN-SUFFIX,nakedsecurity.sophos.com
@@ -7490,6 +7494,9 @@ DOMAIN-SUFFIX,news.tvbs.com.tw
 DOMAIN-SUFFIX,news.ycombinator.com
 DOMAIN-SUFFIX,nic.cz.cc
 DOMAIN-SUFFIX,nikke.hotcool.tw
+DOMAIN-SUFFIX,njav.com
+DOMAIN-SUFFIX,njav.tv
+DOMAIN-SUFFIX,njavtv.com
 DOMAIN-SUFFIX,ntdtv.com
 DOMAIN-SUFFIX,nytimes.map.fastly.net
 DOMAIN-SUFFIX,old.honeynet.org
@@ -7507,6 +7514,7 @@ DOMAIN-SUFFIX,payments-jp.amazon.com
 DOMAIN-SUFFIX,pds.nasa.gov
 DOMAIN-SUFFIX,phosphation13.rssing.com
 DOMAIN-SUFFIX,pixiv.org
+DOMAIN-SUFFIX,po-kaki-to.com
 DOMAIN-SUFFIX,pornhd.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubdeutsch.net
@@ -7678,7 +7686,8 @@ DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhengwunet.org
 DOMAIN-SUFFIX,zhuichaguoji.org
 DOMAIN-SUFFIX,zmw.cn
-# Source count after policy-level dedupe: 696
+DOMAIN-SUFFIX,zozovideo.com
+# Source count after policy-level dedupe: 705
 
 # Source: Loyalsoldier GreatFire domains
 # URL: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt
