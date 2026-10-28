@@ -3,7 +3,6 @@
 
 # Source: MetaCubeX geosite Netflix
 # URL: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/netflix.list
-DOMAIN,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,netflix.ca
 DOMAIN-SUFFIX,netflix.com
@@ -27,6 +26,7 @@ DOMAIN-SUFFIX,netflixdnstest7.com
 DOMAIN-SUFFIX,netflixdnstest8.com
 DOMAIN-SUFFIX,netflixdnstest9.com
 DOMAIN-SUFFIX,netflixdnstest10.com
+DOMAIN-SUFFIX,netflix.com.edgesuite.net
 # Source count after policy-level dedupe: 24
 
 # Source: MetaCubeX geoip Netflix
@@ -159,9 +159,9 @@ IP-CIDR6,2a03:5640:f800::/37,no-resolve
 # URL: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Netflix/Netflix.list
 DOMAIN,e13252.dscg.akamaiedge.net
 DOMAIN,h-netflix.online-metrix.net
+DOMAIN,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,flxvpn.net
 DOMAIN-SUFFIX,netflix.com.au
-DOMAIN-SUFFIX,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,netflixstudios.com
 DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
 DOMAIN-KEYWORD,dualstack.apiproxy-
