@@ -10300,6 +10300,7 @@ DOMAIN-SUFFIX,admin.recaptcha.net,General
 DOMAIN-SUFFIX,ads-twitter.com,General
 DOMAIN-SUFFIX,agoogleaday.com,General
 DOMAIN-SUFFIX,akamai.tvb.com,General
+DOMAIN-SUFFIX,anthropic.auth0.com,General
 DOMAIN-SUFFIX,anthropic.com,General
 DOMAIN-SUFFIX,api-secure.recaptcha.net,General
 DOMAIN-SUFFIX,api-verify.recaptcha.net,General
@@ -10405,6 +10406,7 @@ DOMAIN-SUFFIX,blogspot.sn,General
 DOMAIN-SUFFIX,blogspot.tw,General
 DOMAIN-SUFFIX,blogspot.ug,General
 DOMAIN-SUFFIX,bloomberg.cn,General
+DOMAIN-SUFFIX,bsky.chat,General
 DOMAIN-SUFFIX,caoporn.us,General
 DOMAIN-SUFFIX,casino.williamhill.com,General
 DOMAIN-SUFFIX,cbs.ntu.edu.tw,General
@@ -10425,6 +10427,9 @@ DOMAIN-SUFFIX,china.ucanews.com,General
 DOMAIN-SUFFIX,chinaview.wordpress.com,General
 DOMAIN-SUFFIX,chinese.engadget.com,General
 DOMAIN-SUFFIX,claude.ai,General
+DOMAIN-SUFFIX,claude.app,General
+DOMAIN-SUFFIX,claudemcpcontent.com,General
+DOMAIN-SUFFIX,claudeusercontent.com,General
 DOMAIN-SUFFIX,cldr.unicode.org,General
 DOMAIN-SUFFIX,cloud.dify.ai,General
 DOMAIN-SUFFIX,cloud.mail.ru,General
