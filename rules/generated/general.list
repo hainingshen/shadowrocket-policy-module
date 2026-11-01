@@ -7024,6 +7024,7 @@ DOMAIN-SUFFIX,api.palworldgame.com
 DOMAIN-SUFFIX,api.pureapk.com
 DOMAIN-SUFFIX,api.recaptcha.net
 DOMAIN-SUFFIX,api.steampowered.com
+DOMAIN-SUFFIX,api.themoviedb.org
 DOMAIN-SUFFIX,app.box.com
 DOMAIN-SUFFIX,app.cloudcone.com
 DOMAIN-SUFFIX,app.smartmailcloud.com
@@ -7603,6 +7604,7 @@ DOMAIN-SUFFIX,to-porno.com
 DOMAIN-SUFFIX,tokyo-porn-tube.com
 DOMAIN-SUFFIX,toppornsites.com
 DOMAIN-SUFFIX,topsy.com
+DOMAIN-SUFFIX,torrentleech.org
 DOMAIN-SUFFIX,tosh.comedycentral.com
 DOMAIN-SUFFIX,tsdr.uspto.gov
 DOMAIN-SUFFIX,ttvnw.net
@@ -7692,6 +7694,7 @@ DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtubeeducation.com
 DOMAIN-SUFFIX,youtubegaming.com
 DOMAIN-SUFFIX,youtubekids.com
+DOMAIN-SUFFIX,youversionapi.com
 DOMAIN-SUFFIX,zh-hans.cfsh99.com
 DOMAIN-SUFFIX,zh.ecdm.wikia.com
 DOMAIN-SUFFIX,zh.pokerstrategy.com
@@ -7701,7 +7704,7 @@ DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhengwunet.org
 DOMAIN-SUFFIX,zhuichaguoji.org
 DOMAIN-SUFFIX,zmw.cn
-# Source count after policy-level dedupe: 699
+# Source count after policy-level dedupe: 702
 
 # Source: Loyalsoldier GreatFire domains
 # URL: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt
