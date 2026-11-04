@@ -7046,6 +7046,7 @@ DOMAIN-SUFFIX,bbs.mychat.to
 DOMAIN-SUFFIX,bbs.naixi.net
 DOMAIN-SUFFIX,bbs.nyinfor.com
 DOMAIN-SUFFIX,berlintwitterwall.com
+DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,blog.cryptographyengineering.com
 DOMAIN-SUFFIX,blog.excite.co.jp
 DOMAIN-SUFFIX,blog.expofutures.com
@@ -7704,7 +7705,7 @@ DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhengwunet.org
 DOMAIN-SUFFIX,zhuichaguoji.org
 DOMAIN-SUFFIX,zmw.cn
-# Source count after policy-level dedupe: 702
+# Source count after policy-level dedupe: 703
 
 # Source: Loyalsoldier GreatFire domains
 # URL: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt
