@@ -7494,7 +7494,6 @@ DOMAIN-SUFFIX,lt.sntp.uk
 DOMAIN-SUFFIX,m.moegirl.org
 DOMAIN-SUFFIX,main-ecnpaper-economist.content.pugpig.com
 DOMAIN-SUFFIX,matthewdgreen.wordpress.com
-DOMAIN-SUFFIX,maven.neoforged.net
 DOMAIN-SUFFIX,me.ns.ci
 DOMAIN-SUFFIX,media.nu.nl
 DOMAIN-SUFFIX,mike.cz.cc
@@ -7705,7 +7704,7 @@ DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhengwunet.org
 DOMAIN-SUFFIX,zhuichaguoji.org
 DOMAIN-SUFFIX,zmw.cn
-# Source count after policy-level dedupe: 703
+# Source count after policy-level dedupe: 702
 
 # Source: Loyalsoldier GreatFire domains
 # URL: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt
