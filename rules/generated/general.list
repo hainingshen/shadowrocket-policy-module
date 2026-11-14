@@ -7003,6 +7003,7 @@ IP-CIDR,91.108.0.0/16,no-resolve
 # Source: Loyalsoldier GFW domains
 # URL: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/gfw.txt
 DOMAIN-SUFFIX,1e100.net
+DOMAIN-SUFFIX,51papaya.com
 DOMAIN-SUFFIX,666pool.cn
 DOMAIN-SUFFIX,91porn.com
 DOMAIN-SUFFIX,91porny.com
@@ -7704,7 +7705,7 @@ DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhengwunet.org
 DOMAIN-SUFFIX,zhuichaguoji.org
 DOMAIN-SUFFIX,zmw.cn
-# Source count after policy-level dedupe: 702
+# Source count after policy-level dedupe: 703
 
 # Source: Loyalsoldier GreatFire domains
 # URL: https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt

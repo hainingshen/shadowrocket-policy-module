@@ -10287,6 +10287,7 @@ IP-CIDR,75.126.0.0/16,General,no-resolve
 IP-CIDR,91.105.192.0/23,General,no-resolve
 IP-CIDR,91.108.0.0/16,General,no-resolve
 DOMAIN-SUFFIX,1e100.net,General
+DOMAIN-SUFFIX,51papaya.com,General
 DOMAIN-SUFFIX,666pool.cn,General
 DOMAIN-SUFFIX,91porn.com,General
 DOMAIN-SUFFIX,91porny.com,General
