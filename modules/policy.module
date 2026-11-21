@@ -10436,6 +10436,8 @@ DOMAIN-SUFFIX,claudeusercontent.com,General
 DOMAIN-SUFFIX,cldr.unicode.org,General
 DOMAIN-SUFFIX,cloud.dify.ai,General
 DOMAIN-SUFFIX,cloud.mail.ru,General
+DOMAIN-SUFFIX,cmmedia.com.tw,General
+DOMAIN-SUFFIX,cmoney.tw,General
 DOMAIN-SUFFIX,cn.fmnnow.com,General
 DOMAIN-SUFFIX,cn.sandscotaicentral.com,General
 DOMAIN-SUFFIX,cn.shafaqna.com,General
@@ -10462,6 +10464,7 @@ DOMAIN-SUFFIX,dongtaiwang.com,General
 DOMAIN-SUFFIX,dropbox.com,General
 DOMAIN-SUFFIX,dropboxapi.com,General
 DOMAIN-SUFFIX,dropboxusercontent.com,General
+DOMAIN-SUFFIX,duck.ai,General
 DOMAIN-SUFFIX,dynupdate.no-ip.com,General
 DOMAIN-SUFFIX,ebook.hyread.com.tw,General
 DOMAIN-SUFFIX,en.favotter.net,General
@@ -10492,6 +10495,7 @@ DOMAIN-SUFFIX,fnc.ebc.net.tw,General
 DOMAIN-SUFFIX,forum.cyberctm.com,General
 DOMAIN-SUFFIX,freedominfonetweb.wordpress.com,General
 DOMAIN-SUFFIX,freetls.fastly.net,General
+DOMAIN-SUFFIX,gamma.app,General
 DOMAIN-SUFFIX,github.blog,General
 DOMAIN-SUFFIX,github.com,General
 DOMAIN-SUFFIX,github.io,General
@@ -10734,13 +10738,17 @@ DOMAIN-SUFFIX,googleusercontent.com,General
 DOMAIN-SUFFIX,googleweblight.com,General
 DOMAIN-SUFFIX,googlezip.net,General
 DOMAIN-SUFFIX,greatfire.us7.list-manage.com,General
+DOMAIN-SUFFIX,greenbean.media,General
 DOMAIN-SUFFIX,gsp.target.com,General
 DOMAIN-SUFFIX,help.byspotify.com,General
 DOMAIN-SUFFIX,hk.gradconnection.com,General
 DOMAIN-SUFFIX,hk.jiepang.com,General
 DOMAIN-SUFFIX,hka8964.wordpress.com,General
 DOMAIN-SUFFIX,hkanews.wordpress.com,General
+DOMAIN-SUFFIX,hkcitycreation.com,General
 DOMAIN-SUFFIX,hkcoc.weather.com.hk,General
+DOMAIN-SUFFIX,hkcourtnews.com,General
+DOMAIN-SUFFIX,hkfeature.com,General
 DOMAIN-SUFFIX,hole.thu.monster,General
 DOMAIN-SUFFIX,horrorporn.com,General
 DOMAIN-SUFFIX,hqsbnet.wordpress.com,General
@@ -10768,7 +10776,9 @@ DOMAIN-SUFFIX,jpl.nasa.gov,General
 DOMAIN-SUFFIX,kb.monitorware.com,General
 DOMAIN-SUFFIX,lab.skk.moe,General
 DOMAIN-SUFFIX,library.usc.cuhk.edu.hk,General
+DOMAIN-SUFFIX,lifesitenews.com,General
 DOMAIN-SUFFIX,lightnovel.cn,General
+DOMAIN-SUFFIX,limedia.tw,General
 DOMAIN-SUFFIX,line.naver.jp,General
 DOMAIN-SUFFIX,linear-abematv.akamaized.net,General
 DOMAIN-SUFFIX,listentoyoutube.com,General
@@ -10777,7 +10787,9 @@ DOMAIN-SUFFIX,login.target.com,General
 DOMAIN-SUFFIX,lt.sntp.uk,General
 DOMAIN-SUFFIX,m.moegirl.org,General
 DOMAIN-SUFFIX,main-ecnpaper-economist.content.pugpig.com,General
+DOMAIN-SUFFIX,master-insight.com,General
 DOMAIN-SUFFIX,matthewdgreen.wordpress.com,General
+DOMAIN-SUFFIX,mc.yandex.ru,General
 DOMAIN-SUFFIX,me.ns.ci,General
 DOMAIN-SUFFIX,media.nu.nl,General
 DOMAIN-SUFFIX,mike.cz.cc,General
@@ -10786,7 +10798,9 @@ DOMAIN-SUFFIX,minghuiyw.wordpress.com,General
 DOMAIN-SUFFIX,mjlsh.usc.cuhk.edu.hk,General
 DOMAIN-SUFFIX,mmaaxx.com,General
 DOMAIN-SUFFIX,mo.nightlife141.com,General
+DOMAIN-SUFFIX,moneynet.com.tw,General
 DOMAIN-SUFFIX,music.amazon.com,General
+DOMAIN-SUFFIX,my-formosa.com.tw,General
 DOMAIN-SUFFIX,my.pcloud.com,General
 DOMAIN-SUFFIX,nakedsecurity.sophos.com,General
 DOMAIN-SUFFIX,navyfamily.navy.mil,General
@@ -10796,6 +10810,7 @@ DOMAIN-SUFFIX,news.mt.co.kr,General
 DOMAIN-SUFFIX,news.seehua.com,General
 DOMAIN-SUFFIX,news.tvbs.com.tw,General
 DOMAIN-SUFFIX,news.ycombinator.com,General
+DOMAIN-SUFFIX,nextapple.com,General
 DOMAIN-SUFFIX,nic.cz.cc,General
 DOMAIN-SUFFIX,nikke.hotcool.tw,General
 DOMAIN-SUFFIX,ntdtv.com,General
@@ -10825,6 +10840,7 @@ DOMAIN-SUFFIX,pornstarbyface.com,General
 DOMAIN-SUFFIX,pornstarclub.com,General
 DOMAIN-SUFFIX,porntvblog.com,General
 DOMAIN-SUFFIX,posts.careerengine.us,General
+DOMAIN-SUFFIX,pulsehknews.com,General
 DOMAIN-SUFFIX,purpose.nike.com,General
 DOMAIN-SUFFIX,quote.longbridge.global,General
 DOMAIN-SUFFIX,raw.githack.com,General
@@ -10842,6 +10858,7 @@ DOMAIN-SUFFIX,search.yahoo.co.jp,General
 DOMAIN-SUFFIX,secure.hustler.com,General
 DOMAIN-SUFFIX,secure.logmein.com,General
 DOMAIN-SUFFIX,secure.shadowsocks.nu,General
+DOMAIN-SUFFIX,shanghainationalparty.com,General
 DOMAIN-SUFFIX,share.america.gov,General
 DOMAIN-SUFFIX,shenyunperformingarts.org,General
 DOMAIN-SUFFIX,shenzhoufilm.com,General
@@ -10852,6 +10869,7 @@ DOMAIN-SUFFIX,social.datalabour.com,General
 DOMAIN-SUFFIX,softwaredownload.gitbooks.io,General
 DOMAIN-SUFFIX,solarsystem.nasa.gov,General
 DOMAIN-SUFFIX,sora.com,General
+DOMAIN-SUFFIX,soulogic.com,General
 DOMAIN-SUFFIX,soundofhope.org,General
 DOMAIN-SUFFIX,southpark.cc.com,General
 DOMAIN-SUFFIX,spaces.hightail.com,General
@@ -10869,6 +10887,7 @@ DOMAIN-SUFFIX,suche.gmx.net,General
 DOMAIN-SUFFIX,sujiatun.wordpress.com,General
 DOMAIN-SUFFIX,sunporno.com,General
 DOMAIN-SUFFIX,sydney.bing.com,General
+DOMAIN-SUFFIX,taiwantoday.tw,General
 DOMAIN-SUFFIX,tarr.uspto.gov,General
 DOMAIN-SUFFIX,telegram.dog,General
 DOMAIN-SUFFIX,telegram.me,General
@@ -10877,8 +10896,13 @@ DOMAIN-SUFFIX,telegram.space,General
 DOMAIN-SUFFIX,telegramdownload.com,General
 DOMAIN-SUFFIX,tellapart.com,General
 DOMAIN-SUFFIX,thecenter.mit.edu,General
+DOMAIN-SUFFIX,thecollectivehk.com,General
 DOMAIN-SUFFIX,thefacebook.com,General
+DOMAIN-SUFFIX,theonlinecitizen.com,General
 DOMAIN-SUFFIX,theporndude.com,General
+DOMAIN-SUFFIX,thestandard.com.hk,General
+DOMAIN-SUFFIX,thestar.com,General
+DOMAIN-SUFFIX,thewitnesshk.com,General
 DOMAIN-SUFFIX,thinkwithgoogle.com,General
 DOMAIN-SUFFIX,timesofindia.indiatimes.com,General
 DOMAIN-SUFFIX,tn1.shemalez.com,General
@@ -10937,6 +10961,7 @@ DOMAIN-SUFFIX,wiki.phonegap.com,General
 DOMAIN-SUFFIX,wikiless.funami.tech,General
 DOMAIN-SUFFIX,withgoogle.com,General
 DOMAIN-SUFFIX,wo3ttt.wordpress.com,General
+DOMAIN-SUFFIX,womany.net,General
 DOMAIN-SUFFIX,wowporn.com,General
 DOMAIN-SUFFIX,wujieliulan.com,General
 DOMAIN-SUFFIX,www.ajsands.com,General
